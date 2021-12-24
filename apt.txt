@@ -1,5 +1,5 @@
 ipywidgets
-IPython
+ipython
 pandas
 numpy
 matplotlib
